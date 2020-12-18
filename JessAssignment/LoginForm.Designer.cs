@@ -41,7 +41,7 @@ namespace JessAssignment
             // 
             // usernameTB
             // 
-            this.usernameTB.Location = new System.Drawing.Point(734, 473);
+            this.usernameTB.Location = new System.Drawing.Point(211, 217);
             this.usernameTB.Name = "usernameTB";
             this.usernameTB.Size = new System.Drawing.Size(456, 38);
             this.usernameTB.TabIndex = 0;
@@ -49,7 +49,7 @@ namespace JessAssignment
             // UsernameLabel
             // 
             this.UsernameLabel.AutoSize = true;
-            this.UsernameLabel.Location = new System.Drawing.Point(728, 413);
+            this.UsernameLabel.Location = new System.Drawing.Point(205, 157);
             this.UsernameLabel.Name = "UsernameLabel";
             this.UsernameLabel.Size = new System.Drawing.Size(145, 32);
             this.UsernameLabel.TabIndex = 1;
@@ -57,7 +57,7 @@ namespace JessAssignment
             // 
             // passwordTB
             // 
-            this.passwordTB.Location = new System.Drawing.Point(734, 685);
+            this.passwordTB.Location = new System.Drawing.Point(211, 429);
             this.passwordTB.Name = "passwordTB";
             this.passwordTB.PasswordChar = '*';
             this.passwordTB.Size = new System.Drawing.Size(456, 38);
@@ -66,7 +66,7 @@ namespace JessAssignment
             // passwordLabel
             // 
             this.passwordLabel.AutoSize = true;
-            this.passwordLabel.Location = new System.Drawing.Point(728, 592);
+            this.passwordLabel.Location = new System.Drawing.Point(205, 336);
             this.passwordLabel.Name = "passwordLabel";
             this.passwordLabel.Size = new System.Drawing.Size(139, 32);
             this.passwordLabel.TabIndex = 3;
@@ -74,7 +74,7 @@ namespace JessAssignment
             // 
             // loginBtn
             // 
-            this.loginBtn.Location = new System.Drawing.Point(827, 803);
+            this.loginBtn.Location = new System.Drawing.Point(304, 547);
             this.loginBtn.Name = "loginBtn";
             this.loginBtn.Size = new System.Drawing.Size(231, 89);
             this.loginBtn.TabIndex = 5;
@@ -85,7 +85,7 @@ namespace JessAssignment
             // errorLabel
             // 
             this.errorLabel.AutoSize = true;
-            this.errorLabel.Location = new System.Drawing.Point(902, 753);
+            this.errorLabel.Location = new System.Drawing.Point(379, 497);
             this.errorLabel.Name = "errorLabel";
             this.errorLabel.Size = new System.Drawing.Size(0, 32);
             this.errorLabel.TabIndex = 6;
